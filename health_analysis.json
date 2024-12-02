@@ -1,5 +1,6 @@
-"conditions":
-{
-    "name": "Thyroid",
-    "imagesrc": "thyroid.jpg",
-}
+"conditions": [
+    {
+        "name": "Thyroid",
+        "imagesrc": "thyroid.jpg",
+    }
+]
